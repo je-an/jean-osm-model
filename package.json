@@ -1,6 +1,6 @@
 {
   "name": "jean-osm-model",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Provides model classes",
   "main": "dist/jean-osm-model.js",
   "scripts": {
